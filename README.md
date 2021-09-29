@@ -16,20 +16,16 @@ git clone https://github.com/dcentrum/Project-HLF-Logistics.git
 cd code
 ```
 
-We have three folders for three different layers
-
-### BlockFabric
-this folder contains all Fabric related cryptographic material, channel, genesis block and chaincode.
-
+You might need to use a certain version of nvm that needs to be installed separately
+```
+nvm installv11.9.0
+```
 ### BlockServer
 this is web server based on nodejs and expressjs. facilitates following things.
 * Acts as client for Fabric network by using **Fabric-Client** sdk
 * Acts like a web server that wraps all the fabric interaction logic as REST API (GET, POST endpoints).
 * Bridge between a user interface layer and fabric network layer.
 
- ### BlockClient
-This is end user interface developed using Angular 7.
-This consumes REST api to contact with **BlockServer** web server.
 
 ## Start Fabric
 Run following commands in **BlockServer** folder to start network, install dependencies, enroll Admin and register user.
