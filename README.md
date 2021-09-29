@@ -6,7 +6,6 @@ It also offers a range of staples such as wheat flour, rice, pulses and sugar an
 
 The vast array of commodities and the products in circulation make it essential for a traceability option to be integrated with every stages of a product in the supply chain, ranging through manufacture to retail.
 
-Hyperledger Fabric based solution for consortium of logistics companies in any distribution or supply-chain industries
 
 Here assumption is that you have installed all [prerequisites](https://hyperledger-fabric.readthedocs.io/en/release-1.3/prereqs.html) that a standard Hyperledger Fabric requires.
 
