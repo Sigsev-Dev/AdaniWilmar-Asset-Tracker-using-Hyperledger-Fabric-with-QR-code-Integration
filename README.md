@@ -70,4 +70,3 @@ cd BlockFabric
 
 Thank you.
 # Asset-Tracker-using-Hyperledger-Fabric-with-QR-code-Integration
-# Kashyapdevesh-Asset-Tracker-using-Hyperledger-Fabric-with-QR-code-Integration
